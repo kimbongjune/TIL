@@ -12,5 +12,6 @@
 - [[2023-08-27] AWS Certification Cloud Practitioner(4)](https://github.com/kimbongjune/TIL/blob/main/2023-08-27_AWS%20Certification%20Cloud%20Practitioner(4).md)
 - [[2023-08-28] AWS Certification Cloud Practitioner(5)](https://github.com/kimbongjune/TIL/blob/main/2023-08-28_AWS%20Certification%20Cloud%20Practitioner(5).md)
 - [[2023-08-28] AWS Certification Cloud Practitioner(6)](https://github.com/kimbongjune/TIL/blob/main/2023-08-28_AWS%20Certification%20Cloud%20Practitioner(6).md)
+- [[2023-08-29] AWS Certification Cloud Practitioner(7)](https://github.com/kimbongjune/TIL/blob/main/2023-08-29_AWS%20Certification%20Cloud%20Practitioner(7).md)
 
 ### 미분류
