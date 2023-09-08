@@ -23,5 +23,6 @@
     - 📄[[2023-09-05] AWS Certification Cloud Practitioner(14)](https://github.com/kimbongjune/TIL/blob/main/aws%2Fcertification%2F2023-09-05_AWS%20Certification%20Cloud%20Practitioner(14).md)
     - 📄[[2023-09-06] AWS Certification Cloud Practitioner(15)](https://github.com/kimbongjune/TIL/blob/main/aws%2Fcertification%2F2023-09-06_AWS%20Certification%20Cloud%20Practitioner(15).md)
     - 📄[[2023-09-07] AWS Certification Cloud Practitioner(16)](https://github.com/kimbongjune/TIL/blob/main/aws%2Fcertification%2F2023-09-07_AWS%20Certification%20Cloud%20Practitioner(16).md)
+    - 📄[[2023-09-08] AWS Certification Cloud Practitioner(17)](https://github.com/kimbongjune/TIL/blob/main/aws%2Fcertification%2F2023-09-08_AWS%20Certification%20Cloud%20Practitioner(17).md)
 
 ## 미분류
