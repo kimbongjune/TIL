@@ -5,6 +5,9 @@
 * 더 나은 개발자가 되기 위해 학습한 내용, 오류 해결, 경험 등을 기록합니다.
 
 ## 카테고리
+- 📂Devops
+  - 📂Grafana
+    - 📄[[2023-09-18] Grafana(1)](https://github.com/kimbongjune/TIL/blob/main/Devops%2FGrafana%2F2023-09-18_Grafana(1).md)
 - 📂aws
   - 📂certification
     - 📄[[2023-08-24] AWS Certification Cloud Practitioner(1)](https://github.com/kimbongjune/TIL/blob/main/aws%2Fcertification%2F2023-08-24_AWS%20Certification%20Cloud%20Practitioner(1).md)
