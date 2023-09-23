@@ -12,6 +12,7 @@
     - 📄[[2023-09-20] Grafana(3)](https://github.com/kimbongjune/TIL/blob/main/Devops%2FGrafana%2F2023-09-20_Grafana(3).md)
     - 📄[[2023-09-21] Grafana(4)](https://github.com/kimbongjune/TIL/blob/main/Devops%2FGrafana%2F2023-09-21_Grafana(4).md)
     - 📄[[2023-09-22] Grafana(5)](https://github.com/kimbongjune/TIL/blob/main/Devops%2FGrafana%2F2023-09-22_Grafana(5).md)
+    - 📄[[2023-09-23] Grafana(6)](https://github.com/kimbongjune/TIL/blob/main/Devops%2FGrafana%2F2023-09-23_Grafana(6).md)
 - 📂aws
   - 📂certification
     - 📄[[2023-08-24] AWS Certification Cloud Practitioner(1)](https://github.com/kimbongjune/TIL/blob/main/aws%2Fcertification%2F2023-08-24_AWS%20Certification%20Cloud%20Practitioner(1).md)
